@@ -1,8 +1,8 @@
 Config = {}
 
 Config.MaxDistance = 3.0      -- Abstand zwischen beiden Spielern (Meter)
-Config.RequestTimeout = 120   -- Sekunden, bis eine offene Unterschrift verfällt
-Config.MaxListed = 10         -- so viele Dokumente werden beim Öffnen einer Kopie angezeigt
+Config.RequestTimeout = 300   -- Sekunden, bis eine offene Unterschrift verfällt
+Config.MaxListed = 20         -- so viele Dokumente werden beim Öffnen einer Kopie angezeigt
 
 -- Wer darf welches Dokument ausstellen?
 -- Beispiel: Gewerbeschein nur für Job "stadtverwaltung"
